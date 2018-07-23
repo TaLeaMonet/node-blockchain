@@ -1,0 +1,19 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "Blockchain implementation in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaLeaMonet/node-blockchain.git"
+  },
+  "author": "TaLea Carpenter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TaLeaMonet/node-blockchain/issues"
+  },
+  "homepage": "https://github.com/TaLeaMonet/node-blockchain#readme"
+}
